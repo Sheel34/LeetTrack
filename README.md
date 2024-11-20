@@ -45,3 +45,19 @@
 * **Questions about solutions?** Ask here!
 * **Better approach?** Share your thoughts!
 * **Need help with a similar problem?** Post a query!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sheel34/LeetTrack/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+## String
+|  |
+| ------- |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sheel34/LeetTrack/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+## Sliding Window
+|  |
+| ------- |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sheel34/LeetTrack/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+<!---LeetCode Topics End-->
