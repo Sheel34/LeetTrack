@@ -1,5 +1,5 @@
 class Solution:
-    def takeCharacters(self, s: str, k: int) -> int:
+    def takeCharacters (self, s : str, k : int) -> int:
         freq = [0] * 3
         size = len (s)
         
