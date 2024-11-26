@@ -1,5 +1,5 @@
 class Solution {
-    public int findChampion(int n, int [] [] edges) {
+    public int findChampion (int n, int [] [] edges) {
         
         int [] in_degree = new int [n]; // Track the number of incoming edges for each node.
 
