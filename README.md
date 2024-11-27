@@ -69,6 +69,7 @@
 | [1972-rotating-the-box](https://github.com/Sheel34/LeetTrack/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Sheel34/LeetTrack/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sheel34/LeetTrack/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sheel34/LeetTrack/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
 | ------- |
@@ -93,8 +94,10 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Sheel34/LeetTrack/tree/master/0787-sliding-puzzle) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sheel34/LeetTrack/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/Sheel34/LeetTrack/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sheel34/LeetTrack/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
