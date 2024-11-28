@@ -69,6 +69,7 @@
 | [1972-rotating-the-box](https://github.com/Sheel34/LeetTrack/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Sheel34/LeetTrack/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sheel34/LeetTrack/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sheel34/LeetTrack/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sheel34/LeetTrack/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
@@ -78,6 +79,7 @@
 | [1972-rotating-the-box](https://github.com/Sheel34/LeetTrack/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Sheel34/LeetTrack/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sheel34/LeetTrack/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sheel34/LeetTrack/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Simulation
 |  |
 | ------- |
@@ -94,10 +96,20 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Sheel34/LeetTrack/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sheel34/LeetTrack/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sheel34/LeetTrack/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sheel34/LeetTrack/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Sheel34/LeetTrack/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sheel34/LeetTrack/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sheel34/LeetTrack/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sheel34/LeetTrack/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
