@@ -1,7 +1,7 @@
 class Solution {
     public int minimumObstacles (int [] [] grid) {
 
-        int m = grid.length, n = grid[0].length;
+        int m = grid.length, n = grid [0].length;
         int [] [] distance = new int [m] [n];
         for (int [] row : distance) Arrays.fill (row, Integer.MAX_VALUE);
         Deque <int []> dq = new ArrayDeque <> ();
