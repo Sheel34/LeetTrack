@@ -1,6 +1,6 @@
 class Solution {
     public int[][] validArrangement (int [] [] pairs) {
-        
+
         Map <Integer, List <Integer>> adjacencyList = new HashMap <> ();
         Map <Integer, Integer> inOutDegree = new HashMap <> ();
         
@@ -35,7 +35,7 @@ class Solution {
             }
         }
         
-        int pathSize = path.size();
+        int pathSize = path.size ();
         int [] [] arrangement = new int[pathSize - 1][2];
         
         for (int i = pathSize - 1; i > 0; --i) {
