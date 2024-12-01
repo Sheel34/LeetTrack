@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sheel34/LeetTrack/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sheel34/LeetTrack/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sheel34/LeetTrack/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String
 |  |
@@ -66,6 +67,7 @@
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Sheel34/LeetTrack/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sheel34/LeetTrack/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sheel34/LeetTrack/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/Sheel34/LeetTrack/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Sheel34/LeetTrack/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sheel34/LeetTrack/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -89,6 +91,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sheel34/LeetTrack/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/Sheel34/LeetTrack/tree/master/1972-rotating-the-box) |
 ## Greedy
 |  |
@@ -127,4 +130,12 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Sheel34/LeetTrack/tree/master/2201-valid-arrangement-of-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sheel34/LeetTrack/tree/master/1468-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Sheel34/LeetTrack/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
