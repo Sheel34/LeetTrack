@@ -1,4 +1,4 @@
-bool checkIfExist(int* arr, int arrSize) {
+bool checkIfExist (int* arr, int arrSize) {
     
     int* hash = (int*) calloc (2001, sizeof (int));  /* -1000 - 0 - 1000 */
     int curr, process;
