@@ -1,4 +1,4 @@
-int isPrefixOfWord(char* sentence, char* searchWord) {
+int isPrefixOfWord (char* sentence, char* searchWord) {
 
     char sentenceCopy [1000];
     strcpy (sentenceCopy, sentence); // Copy sentence to tokenize
