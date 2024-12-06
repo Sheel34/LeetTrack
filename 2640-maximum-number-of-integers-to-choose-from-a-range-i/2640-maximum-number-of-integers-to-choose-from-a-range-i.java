@@ -7,18 +7,18 @@ class Solution {
         }
 
         long sum = 0;
-        int cnt = 0;
+        int count = 0;
         for(int i = 1; i <= n; i++){
 
             if(arr [i] == 1){ continue; }
 
             sum += i;
 
-            if(sum>maxSum) { break; }
+            if(sum > maxSum) { break; }
 
-            cnt++;
+            count++;
         }
 
-        return cnt;
+        return count;
     }
 }
