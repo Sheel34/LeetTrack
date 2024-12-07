@@ -1,4 +1,5 @@
 int canDivide (int* nums, int numsSize, int maxOperations, int penalty) {
+    
     int operations = 0;
     for (int i = 0; i < numsSize; i++) {
         if (nums [i] > penalty) {
