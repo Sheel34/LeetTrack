@@ -1,6 +1,6 @@
 struct node {
-  double value;
-  int index;
+    double value;
+    int index;
 };
 
 #define get_parent(index) ((index - 1) >> 1)
@@ -51,7 +51,7 @@ struct node heap_pop (struct node* stack, int* size) {
 
 
 double maxAverageRatio (int** classes, int classesSize, int* classesColSize, int extraStudents) {
-    
+
     struct node heap [classesSize];
     int heap_size = 0;
     for (int i = 0; i < classesSize; ++i) {
