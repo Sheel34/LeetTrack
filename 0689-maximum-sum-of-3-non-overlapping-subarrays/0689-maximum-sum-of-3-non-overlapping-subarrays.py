@@ -2,9 +2,9 @@ class Solution:
     def maxSumOfThreeSubarrays (self, nums : List [int], k : int) -> List [int]:
 
         n = len (nums)
-        sum1 = sum (nums [:k])
-        sum2 = sum (nums [k:2*k])
-        sum3 = sum (nums [2*k:3*k])
+        sum1 = sum (nums [ : k])
+        sum2 = sum (nums [k : 2 * k])
+        sum3 = sum (nums [2 * k : 3 * k])
 
         max1 = sum1
         max12 = sum1 + sum2
