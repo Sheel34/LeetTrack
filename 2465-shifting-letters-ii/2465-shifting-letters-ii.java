@@ -1,6 +1,6 @@
 class Solution {
     public String shiftingLetters (String s, int [] [] shifts) {
-        int n = s.length();
+        int n = s.length ();
         int [] shift = new int [n + 1];
 
         for (int [] shiftOp : shifts) {
