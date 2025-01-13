@@ -2,7 +2,7 @@ int minimumLength (char* s) {
     int n = strlen (s), removableLen = 0;
     int freq [26] = {0};
     for (int i = 0; i < n; i++) {
-        freq[s[i] - 'a']++;
+        freq [s [i] - 'a']++;
     }
 
     for (int i = 0; i < 26; i++) {
