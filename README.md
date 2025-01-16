@@ -120,6 +120,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Sheel34/LeetTrack/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sheel34/LeetTrack/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2465-shifting-letters-ii](https://github.com/Sheel34/LeetTrack/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Sheel34/LeetTrack/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sheel34/LeetTrack/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sheel34/LeetTrack/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Sheel34/LeetTrack/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -335,6 +336,7 @@
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sheel34/LeetTrack/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Sheel34/LeetTrack/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Sheel34/LeetTrack/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sheel34/LeetTrack/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Trie
 |  |
@@ -348,4 +350,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sheel34/LeetTrack/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Sheel34/LeetTrack/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
