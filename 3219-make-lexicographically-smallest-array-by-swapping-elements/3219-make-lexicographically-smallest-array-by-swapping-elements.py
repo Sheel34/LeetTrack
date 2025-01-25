@@ -1,6 +1,6 @@
 class Solution:
     def lexicographicallySmallestArray (self, nums : List [int], limit : int) -> List [int]:
-        n, group = len(nums), 0
+        n, group = len (nums), 0
         pairs = sorted ([[nums [i], i] for i in range (n)], key = lambda x : x [0])
         map = [0] * n
         sets = [[n - 1, n - 1]]
