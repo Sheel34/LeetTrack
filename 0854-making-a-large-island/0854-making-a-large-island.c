@@ -6,9 +6,9 @@ typedef struct {
     int c;
 } point_t;
 
-int exploreIsland(int r, int c, int island_id, int **grid, int nrow, int ncol);
+int exploreIsland (int r, int c, int island_id, int **grid, int nrow, int ncol);
 
-int largestIsland(int** grid, int gridSize, int* gridColSize) {
+int largestIsland (int** grid, int gridSize, int* gridColSize) {
     int max_island = gridSize * (*gridColSize);
     int *islands = (int *) malloc ((max_island + 2) * sizeof (int));
     if (islands == NULL) {
