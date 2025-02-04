@@ -1,5 +1,5 @@
 class Solution {
-    public int maxAscendingSum(int[] nums) {
+    public int maxAscendingSum (int [] nums) {
         final int n = nums.length;
         int maxSum = 0, sum = nums [0];
         for (int i = 1; i < n; i++) {
