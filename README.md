@@ -60,6 +60,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sheel34/LeetTrack/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sheel34/LeetTrack/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/Sheel34/LeetTrack/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Sheel34/LeetTrack/tree/master/2448-count-number-of-bad-pairs) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sheel34/LeetTrack/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sheel34/LeetTrack/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sheel34/LeetTrack/tree/master/2685-first-completely-painted-row-or-column) |
@@ -134,6 +135,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sheel34/LeetTrack/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sheel34/LeetTrack/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sheel34/LeetTrack/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2448-count-number-of-bad-pairs](https://github.com/Sheel34/LeetTrack/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Sheel34/LeetTrack/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sheel34/LeetTrack/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sheel34/LeetTrack/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -337,6 +339,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Sheel34/LeetTrack/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sheel34/LeetTrack/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sheel34/LeetTrack/tree/master/2300-construct-string-with-repeat-limit) |
+| [2448-count-number-of-bad-pairs](https://github.com/Sheel34/LeetTrack/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sheel34/LeetTrack/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Sheel34/LeetTrack/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Queue
@@ -355,6 +358,7 @@
 ## Math
 |  |
 | ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/Sheel34/LeetTrack/tree/master/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sheel34/LeetTrack/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
