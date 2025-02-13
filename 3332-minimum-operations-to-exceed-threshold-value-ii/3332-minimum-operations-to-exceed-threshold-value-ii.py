@@ -15,7 +15,7 @@ class Solution:
             if x >= k:
                 return count
             
-            if i < len(nums) and (j >= len (b) or nums [i] <= b [j]):
+            if i < len (nums) and (j >= len (b) or nums [i] <= b [j]):
                 y = nums [i]
                 i += 1
             else:
