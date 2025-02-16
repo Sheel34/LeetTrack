@@ -20,7 +20,7 @@ bool backtrack (int *arr ,int *visited, int size ,int  n, int index , int count)
 int* constructDistancedSequence (int n, int* returnSize) {
     int size = n * 2 - 1;
     int *arr = calloc (size , sizeof (int));
-    int *vis = calloc (n+1 , sizeof (int));
+    int *vis = calloc (n + 1 , sizeof (int));
     backtrack (arr , vis , size , n , 0 , 0);
     *returnSize = size;
     return arr;
