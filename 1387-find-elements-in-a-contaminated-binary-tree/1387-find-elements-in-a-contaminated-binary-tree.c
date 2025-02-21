@@ -34,7 +34,7 @@ bool traverse (struct TreeNode **node, int target) {
         return true;
     struct TreeNode *next = (*node);
     if (next -> val * 2 + 1 != target && next->val * 2 + 2 != target)
-        if (traverse(node, (target - 1) / 2)) {
+        if (traverse (node, (target - 1) / 2)) {
             next = (*node);
             if (next -> val * 2 + 1 == target && !next -> left)
                 return false;
