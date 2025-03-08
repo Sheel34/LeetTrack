@@ -100,6 +100,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Sheel34/LeetTrack/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sheel34/LeetTrack/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sheel34/LeetTrack/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sheel34/LeetTrack/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Sheel34/LeetTrack/tree/master/2465-shifting-letters-ii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sheel34/LeetTrack/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sheel34/LeetTrack/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -111,6 +112,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sheel34/LeetTrack/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sheel34/LeetTrack/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/Sheel34/LeetTrack/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sheel34/LeetTrack/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
