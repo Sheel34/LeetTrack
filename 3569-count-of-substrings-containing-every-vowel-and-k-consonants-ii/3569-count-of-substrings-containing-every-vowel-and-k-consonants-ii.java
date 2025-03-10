@@ -30,7 +30,6 @@ class Solution {
             }
             if (currentK == k && vowels == 5)
                 response += (1 + extraLeft);
-
         }
         return response;
     }
