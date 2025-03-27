@@ -15,8 +15,8 @@ int minimumIndex (int* nums, int numsSize) {
             count--;
     }
     for (int i = 0; i < numsSize; i++)
-        if (nums[i] == max_i) max_r++;
-    for (int i = 0; i < numsSize; i++){
+        if (nums [i] == max_i) max_r++;
+    for (int i = 0; i < numsSize; i++) {
         right--; left++;
         if (nums [i] == max_i){
             max_r--; max_l++;
