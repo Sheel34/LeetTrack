@@ -51,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sheel34/LeetTrack/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sheel34/LeetTrack/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Sheel34/LeetTrack/tree/master/0952-word-subsets) |
@@ -84,6 +85,7 @@
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Sheel34/LeetTrack/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sheel34/LeetTrack/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Sheel34/LeetTrack/tree/master/1160-letter-tile-possibilities) |
@@ -255,6 +257,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sheel34/LeetTrack/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sheel34/LeetTrack/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Sheel34/LeetTrack/tree/master/1972-rotating-the-box) |
@@ -268,6 +271,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sheel34/LeetTrack/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sheel34/LeetTrack/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sheel34/LeetTrack/tree/master/1917-maximum-average-pass-ratio) |
