@@ -92,7 +92,7 @@ long long countGoodIntegers (int n, int k) {
     globalAns = 0;
     memset (visTable, 0, sizeof (visTable));
     initFact ();
-    int *num = (int*)malloc(sizeof (int) * n);
+    int *num = (int*) malloc (sizeof (int) * n);
     generatePalindrome (num, 0, n - 1, n, k);
     free (num);
     return globalAns;
