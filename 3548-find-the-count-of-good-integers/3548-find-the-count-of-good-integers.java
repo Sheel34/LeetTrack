@@ -25,9 +25,8 @@ class Solution {
                     temp /= 10;
                 }
                 long code = 0;
-                for (int i = 0; i < 10; i++) {
+                for (int i = 0; i < 10; i++)
                     code = code * 11 + freq [i];
-                }
                 encodedFreqs.add (code);
             }
         }
