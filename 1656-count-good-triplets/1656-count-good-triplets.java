@@ -6,10 +6,8 @@ class Solution {
             for (int j = i + 1; j < length; j++)
                 if (Math.abs (arr [i] - arr[j]) <= a)
                     for (int k = j + 1; k < length; k++)
-                        if (Math.abs (arr [j] - arr [k]) <= b &&
-                            Math.abs (arr [i] - arr [k]) <= c) {
+                        if (Math.abs (arr [j] - arr [k]) <= b && Math.abs (arr [i] - arr [k]) <= c)
                             goodTriplets++;
-                        }
         return goodTriplets;
     }
 }
