@@ -159,6 +159,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sheel34/LeetTrack/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sheel34/LeetTrack/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Sheel34/LeetTrack/tree/master/1364-tuple-with-same-product) |
+| [1372-check-if-it-is-a-good-array](https://github.com/Sheel34/LeetTrack/tree/master/1372-check-if-it-is-a-good-array) |
 | [1396-count-servers-that-communicate](https://github.com/Sheel34/LeetTrack/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sheel34/LeetTrack/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sheel34/LeetTrack/tree/master/1477-product-of-the-last-k-numbers) |
@@ -515,6 +516,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Sheel34/LeetTrack/tree/master/0368-largest-divisible-subset) |
+| [1372-check-if-it-is-a-good-array](https://github.com/Sheel34/LeetTrack/tree/master/1372-check-if-it-is-a-good-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sheel34/LeetTrack/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sheel34/LeetTrack/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sheel34/LeetTrack/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -659,6 +661,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/Sheel34/LeetTrack/tree/master/1372-check-if-it-is-a-good-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sheel34/LeetTrack/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sheel34/LeetTrack/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
