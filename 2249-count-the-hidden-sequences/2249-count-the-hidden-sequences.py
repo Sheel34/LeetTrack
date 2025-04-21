@@ -1,5 +1,5 @@
 class Solution:
-    def numberOfArrays(self, differences: List[int], lower: int, upper: int) -> int:
+    def numberOfArrays (self, differences : List [int], lower : int, upper : int) -> int:
         a = maxx = minn = 0
         for i in differences:
             a += i
