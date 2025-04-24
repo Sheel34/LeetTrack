@@ -7,7 +7,7 @@ class Solution:
         for i in range (n):
             current_set = set ()
             for j in range (i, n):
-                current_set.add (nums[j])
+                current_set.add (nums [j])
                 if len (current_set) == total_distinct:
                     count += (n - j)
                     break
