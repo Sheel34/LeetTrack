@@ -11,7 +11,6 @@ class Solution {
                 avail.put (workers [i], avail.getOrDefault (workers [i], 0) + 1);
             boolean canAssign = true;
             for (int i = mid - 1; i >= 0; --i) {
-                //int tasks [i] = tasks [i];
                 int w = avail.lastKey ();
                 if (w >= tasks [i]) {
                     decrement (avail, w);
