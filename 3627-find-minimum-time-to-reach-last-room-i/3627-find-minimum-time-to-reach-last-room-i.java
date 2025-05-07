@@ -18,9 +18,7 @@ class Solution {
             for (int [] dir : directions) {
                 int nextRow = currRow + dir [0];
                 int nextCol = currCol + dir [1];
-                if (nextRow >= 0 && nextRow < n &&
-                    nextCol >= 0 && nextCol < m &&
-                    dp [nextRow] [nextCol] == Integer.MAX_VALUE) {
+                if (nextRow >= 0 && nextRow < n && nextCol >= 0 && nextCol < m && dp [nextRow] [nextCol] == Integer.MAX_VALUE) {
                     int nextTime = Math.max (moveTime [nextRow] [nextCol], currTime) + 1;
                     minh.add (new int [] {nextTime, nextRow, nextCol});
                 }
