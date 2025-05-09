@@ -8,7 +8,7 @@ class Solution:
         inv = [1] * (n + 1)
         invFact = [1] * (n + 1)
         for i in range (1, n + 1): fact [i] = fact [i - 1] * i % mod
-        for i in range (2, n + 1): inv [i] = mod - (mod // i)*inv [mod % i] % mod
+        for i in range (2, n + 1): inv [i] = mod - (mod // i) * inv [mod % i] % mod
         for i in range (1, n + 1): invFact [i] = invFact [i - 1] * inv [i] % mod
         halfSum = total // 2
         halfLen = n // 2
