@@ -1,11 +1,11 @@
 class Solution {
     public long minSum (int [] nums1, int [] nums2) {
         long nums1Zeroes = 0, nums2Zeroes = 0,sum1 = 0, sum2 = 0;
-        for (int i : nums1){
+        for (int i : nums1) {
             if (i == 0) nums1Zeroes++;
             sum1 += i;
         }
-        for (int i : nums2){
+        for (int i : nums2) {
             if (i == 0) nums2Zeroes++;
             sum2 += i;
         }
