@@ -1,3 +1,5 @@
+#pragma GCC optimize ("03, unroll-loops")
+
 long long minSum (int* nums1, int n1, int* nums2, int n2) {
     long long sum1 = 0, sum2 = 0;
     int zero1 = 0, zero2 = 0;
