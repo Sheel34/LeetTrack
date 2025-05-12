@@ -2,7 +2,7 @@
  * Note: The returned array must be malloced, assume caller calls free().
  */
 
-#pragma GCC optimize("O3,unroll-loops")
+#pragma GCC optimize ("O3,unroll-loops")
 
 int* findEvenNumbers (int* digits, int n, int* returnSize) {
     int freq [10] = {0}, cntEven = 0;
