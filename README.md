@@ -163,6 +163,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sheel34/LeetTrack/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Sheel34/LeetTrack/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Sheel34/LeetTrack/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sheel34/LeetTrack/tree/master/0416-partition-equal-subset-sum) |
@@ -323,6 +324,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sheel34/LeetTrack/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Sheel34/LeetTrack/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sheel34/LeetTrack/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -482,6 +484,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sheel34/LeetTrack/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Sheel34/LeetTrack/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sheel34/LeetTrack/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sheel34/LeetTrack/tree/master/1468-check-if-n-and-its-double-exist) |
