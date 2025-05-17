@@ -3,7 +3,7 @@
 
 void sortColors(int* nums, int numsSize) {
     const char red = 0, white = 1, blue = 2;
-    int l = 0, m = 0, r = numsSize - 1; // pointers to partition
+    int l = 0, m = 0, r = numsSize - 1;
     while (m <= r) {
         switch (nums[m]) {
         case red:
