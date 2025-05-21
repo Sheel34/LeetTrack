@@ -51,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Sheel34/LeetTrack/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Sheel34/LeetTrack/tree/master/0797-rabbits-in-forest) |
@@ -163,6 +164,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sheel34/LeetTrack/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Sheel34/LeetTrack/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Sheel34/LeetTrack/tree/master/0407-trapping-rain-water-ii) |
@@ -289,6 +291,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Sheel34/LeetTrack/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Sheel34/LeetTrack/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Sheel34/LeetTrack/tree/master/0854-making-a-large-island) |
