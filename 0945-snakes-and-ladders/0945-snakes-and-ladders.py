@@ -2,7 +2,7 @@ class Solution:
     def snakesAndLadders(self, board: List[List[int]]) -> int:
         boardSize = len(board)
         visited = [False] * (boardSize * boardSize + 1)
-        queue = deque([(1, 0)])  # (cellNumber, moveCount)
+        queue = deque([(1, 0)])
         visited[1] = True
 
         while queue:
