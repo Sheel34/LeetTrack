@@ -170,6 +170,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sheel34/LeetTrack/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/Sheel34/LeetTrack/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/Sheel34/LeetTrack/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Sheel34/LeetTrack/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sheel34/LeetTrack/tree/master/0416-partition-equal-subset-sum) |
@@ -356,6 +357,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Sheel34/LeetTrack/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sheel34/LeetTrack/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Sheel34/LeetTrack/tree/master/0797-rabbits-in-forest) |
