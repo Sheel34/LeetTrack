@@ -102,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sheel34/LeetTrack/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sheel34/LeetTrack/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Sheel34/LeetTrack/tree/master/0782-jewels-and-stones) |
@@ -669,6 +670,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sheel34/LeetTrack/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sheel34/LeetTrack/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sheel34/LeetTrack/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sheel34/LeetTrack/tree/master/2021-remove-all-occurrences-of-a-substring) |
