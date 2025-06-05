@@ -184,6 +184,7 @@
 | [0797-rabbits-in-forest](https://github.com/Sheel34/LeetTrack/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Sheel34/LeetTrack/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sheel34/LeetTrack/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/Sheel34/LeetTrack/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sheel34/LeetTrack/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/Sheel34/LeetTrack/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Sheel34/LeetTrack/tree/master/0952-word-subsets) |
@@ -560,6 +561,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/Sheel34/LeetTrack/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Sheel34/LeetTrack/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sheel34/LeetTrack/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/Sheel34/LeetTrack/tree/master/0909-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sheel34/LeetTrack/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Sheel34/LeetTrack/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/Sheel34/LeetTrack/tree/master/1170-shortest-common-supersequence) |
@@ -643,6 +645,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Sheel34/LeetTrack/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Sheel34/LeetTrack/tree/master/0797-rabbits-in-forest) |
+| [0909-stone-game](https://github.com/Sheel34/LeetTrack/tree/master/0909-stone-game) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Sheel34/LeetTrack/tree/master/1372-check-if-it-is-a-good-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sheel34/LeetTrack/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sheel34/LeetTrack/tree/master/1477-product-of-the-last-k-numbers) |
@@ -838,4 +841,8 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sheel34/LeetTrack/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Sheel34/LeetTrack/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
