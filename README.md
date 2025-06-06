@@ -350,6 +350,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sheel34/LeetTrack/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Sheel34/LeetTrack/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Sheel34/LeetTrack/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sheel34/LeetTrack/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sheel34/LeetTrack/tree/master/0160-intersection-of-two-linked-lists) |
@@ -863,6 +864,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Sheel34/LeetTrack/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Sheel34/LeetTrack/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Sheel34/LeetTrack/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sheel34/LeetTrack/tree/master/0143-reorder-list) |
