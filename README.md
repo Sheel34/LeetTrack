@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sheel34/LeetTrack/tree/master/0160-intersection-of-two-linked-lists) |
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Sheel34/LeetTrack/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Sheel34/LeetTrack/tree/master/0797-rabbits-in-forest) |
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sheel34/LeetTrack/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sheel34/LeetTrack/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Sheel34/LeetTrack/tree/master/0868-push-dominoes) |
@@ -856,6 +858,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sheel34/LeetTrack/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
