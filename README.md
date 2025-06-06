@@ -348,6 +348,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sheel34/LeetTrack/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Sheel34/LeetTrack/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0908-middle-of-the-linked-list) |
@@ -679,6 +680,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sheel34/LeetTrack/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sheel34/LeetTrack/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sheel34/LeetTrack/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sheel34/LeetTrack/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -837,6 +839,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/Sheel34/LeetTrack/tree/master/2050-count-good-numbers) |
 ## Merge Sort
 |  |
@@ -853,5 +856,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
