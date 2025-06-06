@@ -351,6 +351,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Sheel34/LeetTrack/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Sheel34/LeetTrack/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Sheel34/LeetTrack/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sheel34/LeetTrack/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
@@ -684,6 +685,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sheel34/LeetTrack/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Sheel34/LeetTrack/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sheel34/LeetTrack/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sheel34/LeetTrack/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -843,6 +845,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Sheel34/LeetTrack/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/Sheel34/LeetTrack/tree/master/2050-count-good-numbers) |
 ## Merge Sort
@@ -861,6 +864,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sheel34/LeetTrack/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Sheel34/LeetTrack/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sheel34/LeetTrack/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0908-middle-of-the-linked-list) |
