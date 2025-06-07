@@ -11,8 +11,8 @@ class Solution {
             if (c == '*') {
                 char smallest = pq.poll();
                 int indexToRemove = map.get(smallest).removeLast();
-                keep[i] = false;               // Remove '*'
-                keep[indexToRemove] = false;   // Remove smallest char
+                keep[i] = false;           
+                keep[indexToRemove] = false;   
             } else {
                 pq.offer(c);
                 map.putIfAbsent(c, new ArrayDeque<>());
