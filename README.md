@@ -518,6 +518,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sheel34/LeetTrack/tree/master/0222-count-complete-tree-nodes) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sheel34/LeetTrack/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sheel34/LeetTrack/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Sheel34/LeetTrack/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -714,6 +715,7 @@
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sheel34/LeetTrack/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sheel34/LeetTrack/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sheel34/LeetTrack/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sheel34/LeetTrack/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -730,6 +732,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sheel34/LeetTrack/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sheel34/LeetTrack/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sheel34/LeetTrack/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sheel34/LeetTrack/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -761,6 +764,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sheel34/LeetTrack/tree/master/0222-count-complete-tree-nodes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sheel34/LeetTrack/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sheel34/LeetTrack/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sheel34/LeetTrack/tree/master/2308-divide-array-into-equal-pairs) |
