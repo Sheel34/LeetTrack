@@ -454,6 +454,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sheel34/LeetTrack/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sheel34/LeetTrack/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Sheel34/LeetTrack/tree/master/1558-course-schedule-iv) |
+| [1916-find-center-of-star-graph](https://github.com/Sheel34/LeetTrack/tree/master/1916-find-center-of-star-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sheel34/LeetTrack/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sheel34/LeetTrack/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sheel34/LeetTrack/tree/master/2121-find-if-path-exists-in-graph) |
