@@ -11,7 +11,7 @@ class Solution {
                 if (index < n) {
                     group.append(s.charAt(index));
                 } else {
-                    group.append(fill); // Padding
+                    group.append(fill); 
                 }
             }
             result[i] = group.toString();
