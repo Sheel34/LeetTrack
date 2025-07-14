@@ -755,6 +755,7 @@
 | [0797-rabbits-in-forest](https://github.com/Sheel34/LeetTrack/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/Sheel34/LeetTrack/tree/master/0909-stone-game) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Sheel34/LeetTrack/tree/master/1372-check-if-it-is-a-good-array) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sheel34/LeetTrack/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sheel34/LeetTrack/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sheel34/LeetTrack/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Sheel34/LeetTrack/tree/master/1500-count-largest-group) |
@@ -998,6 +999,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Sheel34/LeetTrack/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sheel34/LeetTrack/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search Tree
 |  |
 | ------- |
