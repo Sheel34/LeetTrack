@@ -8,7 +8,7 @@ class Solution:
             for v in g [u]:
                 if v - p: D (v, u); s [u] ^= s[v]; d [u] |= d [v]
         D (0, -1)
-        r, t = 9e9,s [0]
+        r, t = 9e9, s [0]
         for i in range (1, n):
             for j in range (i + 1, n):
                 x, y = s [i], s [j]
