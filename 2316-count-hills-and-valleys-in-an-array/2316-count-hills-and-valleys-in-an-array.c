@@ -1,5 +1,5 @@
 int countHillValley (int* nums, int numsSize) {
-    int count  =0;
+    int count = 0;
     bool diff [2] = {0, 0};
     for (int i = 1; i < numsSize; i++){
         if (nums [i - 1] == nums [i]) continue;
