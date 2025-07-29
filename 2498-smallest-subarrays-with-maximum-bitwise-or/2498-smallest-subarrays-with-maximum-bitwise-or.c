@@ -9,7 +9,7 @@ int* smallestSubarrays (int* nums, int numsSize, int* returnSize) {
             if (nums [i] & (1L << b))
                 last [b] = i;
             else
-                maxIndex = fmax (maxIndex, last[b]);
+                maxIndex = fmax (maxIndex, last [b]);
         }
         nums [i] = maxIndex - i + 1;
     }
