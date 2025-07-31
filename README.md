@@ -224,6 +224,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sheel34/LeetTrack/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/Sheel34/LeetTrack/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sheel34/LeetTrack/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Sheel34/LeetTrack/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Sheel34/LeetTrack/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Sheel34/LeetTrack/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sheel34/LeetTrack/tree/master/1025-minimum-cost-for-tickets) |
@@ -687,6 +688,7 @@
 | [0868-push-dominoes](https://github.com/Sheel34/LeetTrack/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sheel34/LeetTrack/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/Sheel34/LeetTrack/tree/master/0909-stone-game) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Sheel34/LeetTrack/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sheel34/LeetTrack/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Sheel34/LeetTrack/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/Sheel34/LeetTrack/tree/master/1170-shortest-common-supersequence) |
@@ -903,6 +905,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sheel34/LeetTrack/tree/master/0222-count-complete-tree-nodes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Sheel34/LeetTrack/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sheel34/LeetTrack/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sheel34/LeetTrack/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sheel34/LeetTrack/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
