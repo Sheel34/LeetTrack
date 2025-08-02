@@ -8,7 +8,7 @@ class Solution {
             counts.put (basket2 [i], counts.getOrDefault (basket2 [i], 0) - 1);
         final List <Integer> swaps = new ArrayList <> ();
         int min = Integer.MAX_VALUE;
-        for (final Map.Entry<Integer, Integer> entry : counts.entrySet ()) {
+        for (final Map.Entry <Integer, Integer> entry : counts.entrySet ()) {
             final int num = entry.getKey (), count = entry.getValue ();
             if (count % 2 > 0)
                 return -1;
