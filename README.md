@@ -381,6 +381,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sheel34/LeetTrack/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sheel34/LeetTrack/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sheel34/LeetTrack/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Sheel34/LeetTrack/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -647,6 +648,7 @@
 | [3427-special-array-ii](https://github.com/Sheel34/LeetTrack/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Sheel34/LeetTrack/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sheel34/LeetTrack/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Sheel34/LeetTrack/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -794,6 +796,7 @@
 | [2434-design-a-number-container-system](https://github.com/Sheel34/LeetTrack/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Sheel34/LeetTrack/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sheel34/LeetTrack/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Sheel34/LeetTrack/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -906,6 +909,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sheel34/LeetTrack/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sheel34/LeetTrack/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sheel34/LeetTrack/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Sheel34/LeetTrack/tree/master/3791-fruits-into-baskets-iii) |
 ## Backtracking
 |  |
 | ------- |
