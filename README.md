@@ -819,6 +819,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Sheel34/LeetTrack/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sheel34/LeetTrack/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sheel34/LeetTrack/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Sheel34/LeetTrack/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Sheel34/LeetTrack/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Sheel34/LeetTrack/tree/master/0826-soup-servings) |
@@ -943,6 +944,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sheel34/LeetTrack/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Sheel34/LeetTrack/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Sheel34/LeetTrack/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sheel34/LeetTrack/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sheel34/LeetTrack/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sheel34/LeetTrack/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1063,6 +1065,7 @@
 | [0231-power-of-two](https://github.com/Sheel34/LeetTrack/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Sheel34/LeetTrack/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sheel34/LeetTrack/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Sheel34/LeetTrack/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sheel34/LeetTrack/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Sheel34/LeetTrack/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
