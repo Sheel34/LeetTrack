@@ -18,7 +18,7 @@ class Solution {
         }
         return res;
     }
-    private int dfs(int i, int j , int dir ,int target, boolean isTurned){
+    private int dfs (int i, int j , int dir ,int target, boolean isTurned) {
         int x = i + dirs [dir] [0];
         int y = j + dirs [dir] [1];
         if (x < 0 || x >= row || y < 0 || y >= col || grid [x] [y] != target) return 1;
