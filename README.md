@@ -51,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sheel34/LeetTrack/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sheel34/LeetTrack/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sheel34/LeetTrack/tree/master/0141-linked-list-cycle) |
@@ -216,6 +217,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sheel34/LeetTrack/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sheel34/LeetTrack/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sheel34/LeetTrack/tree/master/0118-pascals-triangle) |
@@ -402,6 +404,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sheel34/LeetTrack/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Sheel34/LeetTrack/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Sheel34/LeetTrack/tree/master/0498-diagonal-traverse) |
