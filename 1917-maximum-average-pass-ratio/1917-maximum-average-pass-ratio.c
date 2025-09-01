@@ -1,79 +1,67 @@
-struct node {
-    double value;
-    int index;
-};
+typedef struct {
+    double gain;
+    int pass, total;
+} Class;
 
-#define get_parent(index) ((index - 1) >> 1)
-#define get_left_child(index) ((index << 1) + 1)
-#define get_right_child(index) ((index << 1) + 2)
-
-void swap (struct node* a, struct node* b) {
-  struct node temp = *a;
-  *a = *b;
-  *b = temp;
+double Gain (int pass, int total) {
+    return (double) (pass + 1) / (total + 1) - (double) pass / total;
 }
 
-void heap_sort (struct node* stack, int* size, int index) {
+void swap (Class* a, Class* b) {
+    Class temp = *a;
+    *a = *b;
+    *b = temp;
+}
 
-    int parent = get_parent (index);
-
-    while (index && stack [parent].value < stack [index].value) {
-        swap (stack + parent, stack + index);
-        index = parent;
-        parent = get_parent (index);
-    }
-    int left = get_left_child (index);
-    int right = get_right_child (index);
-
-    while (left < *size && (stack [left].value > stack [index].value || stack [right].value > stack [index].value)) {
-        if (*size <= right) right = left;
-        if (stack [left].value > stack [right].value) right = left;
-        swap (stack + right, stack + index);
-        index = right;
-        left = get_left_child (index);
-        right = get_right_child (index);
+void heapifyDown (Class* heap, int n, int i) {
+    int largest = i;
+    int l = 2 * i + 1, r = 2 * i + 2;
+    if (l < n && heap [l].gain > heap [largest].gain) largest = l;
+    if (r < n && heap [r].gain > heap [largest].gain) largest = r;
+    if (largest != i) {
+        swap (&heap [i], &heap [largest]);
+        heapifyDown (heap, n, largest);
     }
 }
 
-void heap_insert (struct node* stack, int* size, struct node input) {
-    stack [*size] = input;
-    heap_sort (stack, size, *size);
-    ++(*size);
+void heapifyUp (Class* heap, int i) {
+    while (i > 0) {
+        int p = (i - 1) / 2;
+        if (heap [p].gain >= heap [i].gain) break;
+        swap (&heap [p], &heap [i]);
+        i = p;
+    }
 }
 
-struct node heap_pop (struct node* stack, int* size) {
-    struct node result = stack [0];
-    stack [0] = stack [*size - 1];
-    --(*size);
-    heap_sort (stack, size, 0);
-    return result;
+Class heapPop (Class* heap, int* n) {
+    Class top = heap [0];
+    heap [0] = heap [--(*n)];
+    heapifyDown (heap, *n, 0);
+    return top;
 }
 
+void heapPush (Class* heap, int* n, Class val) {
+    heap [(*n)++] = val;
+    heapifyUp (heap, *n - 1);
+}
 
 double maxAverageRatio (int** classes, int classesSize, int* classesColSize, int extraStudents) {
-
-    struct node heap [classesSize];
-    int heap_size = 0;
-    for (int i = 0; i < classesSize; ++i) {
-        struct node current;
-        current.value = (double) (classes [i] [0] + 1) / (classes [i] [1] + 1);
-        current.value -= (double) (classes [i] [0]) / (classes [i] [1]);
-        current.index = i;
-        heap_insert (heap, &heap_size, current);
+    Class* heap = (Class*) malloc ((classesSize + extraStudents) * sizeof (Class));
+    int heapSize = 0;
+    double sum = 0.0;
+    for (int i = 0; i < classesSize; i++) {
+        int p = classes [i] [0], t = classes [i] [1];
+        sum += (double) p / t;
+        heapPush (heap, &heapSize, (Class) {Gain (p, t), p, t});
     }
-  
-    while (extraStudents) {
-        struct node current = heap_pop (heap, &heap_size);
-        ++classes [current.index] [0];
-        ++classes [current.index] [1];
-        current.value = (double) (classes [current.index] [0] + 1) / (classes [current.index] [1] + 1);
-        current.value -= (double) (classes [current.index] [0]) / (classes [current.index] [1]);
-        heap_insert (heap, &heap_size, current);
-        --extraStudents;
+    while (extraStudents-- > 0) {
+        Class top = heapPop (heap, &heapSize);
+        sum -= (double) top.pass / top.total;
+        top.pass++; top.total++;
+        sum += (double) top.pass / top.total;
+        top.gain = Gain (top.pass, top.total);
+        heapPush (heap, &heapSize, top);
     }
-
-    double total = 0;
-    for (int i = 0; i < classesSize; ++i) total += (double) classes [i] [0] / classes [i] [1];
-    total /= classesSize;
-    return total;
+    free (heap);
+    return sum / classesSize;
 }
