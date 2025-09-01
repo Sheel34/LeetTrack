@@ -1,22 +1,13 @@
 class Solution:
-    def maxAverageRatio(self, classes: List[List[int]], extraStudents: int) -> float:
-        import heapq
-        
-        def gain (pass_, total):
-            return (pass_ + 1) / (total + 1) - pass_ / total
-        
-        max_heap = []
-        sum_ = 0.0
-
-        for pass_, total in classes:
-            sum_ += pass_ / total
-            heapq.heappush (max_heap, (-gain (pass_, total), pass_, total))
-
-        for _ in range (extraStudents):
-            current_gain, pass_, total = heapq.heappop (max_heap)
-            sum_ -= pass_ / total
-            pass_ += 1
-            total += 1
-            sum_ += pass_ / total
-            heapq.heappush (max_heap, (-gain (pass_, total), pass_, total))
-        return sum_ / len (classes)
+    def maxAverageRatio (self, classes : List [List [int]], extraStudents: int) -> float:
+        def gain (pass_count, total_count):
+            return (pass_count + 1) / (total_count + 1) - pass_count / total_count
+        heap = [(-gain (p, t), p, t) for p, t in classes]
+        heapq.heapify (heap)
+        while extraStudents > 0:
+            g, p, t = heapq.heappop (heap)
+            p += 1
+            t += 1
+            heapq.heappush (heap, (-gain (p, t), p, t))
+            extraStudents -= 1
+        return sum (p / t for _, p, t in heap) / len (classes)
