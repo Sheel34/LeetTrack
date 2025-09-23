@@ -8,7 +8,7 @@ int compareVersion (char* version1, char* version2) {
         token2 = strsep (&version2, dot);
         int x1 = (token1 && *token1) ? atoi (token1) : 0;
         int x2 = (token2 && *token2) ? atoi (token2) : 0;
-        if (x1 <x2) return -1;
+        if (x1 < x2) return -1;
         else if (x1 > x2) return 1;
     }
     return 0;
