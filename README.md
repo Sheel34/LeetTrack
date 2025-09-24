@@ -57,6 +57,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Sheel34/LeetTrack/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sheel34/LeetTrack/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sheel34/LeetTrack/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sheel34/LeetTrack/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sheel34/LeetTrack/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Sheel34/LeetTrack/tree/master/0782-jewels-and-stones) |
@@ -136,6 +137,7 @@
 | [0020-valid-parentheses](https://github.com/Sheel34/LeetTrack/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sheel34/LeetTrack/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/Sheel34/LeetTrack/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sheel34/LeetTrack/tree/master/0166-fraction-to-recurring-decimal) |
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Sheel34/LeetTrack/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/Sheel34/LeetTrack/tree/master/0868-push-dominoes) |
@@ -901,6 +903,7 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sheel34/LeetTrack/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Sheel34/LeetTrack/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sheel34/LeetTrack/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sheel34/LeetTrack/tree/master/0342-power-of-four) |
