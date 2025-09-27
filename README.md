@@ -257,6 +257,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Sheel34/LeetTrack/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Sheel34/LeetTrack/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/Sheel34/LeetTrack/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Sheel34/LeetTrack/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Sheel34/LeetTrack/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sheel34/LeetTrack/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/Sheel34/LeetTrack/tree/master/0909-stone-game) |
@@ -918,6 +919,7 @@
 | [0679-24-game](https://github.com/Sheel34/LeetTrack/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Sheel34/LeetTrack/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Sheel34/LeetTrack/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Sheel34/LeetTrack/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Sheel34/LeetTrack/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Sheel34/LeetTrack/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/Sheel34/LeetTrack/tree/master/0909-stone-game) |
@@ -1235,6 +1237,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Sheel34/LeetTrack/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sheel34/LeetTrack/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sheel34/LeetTrack/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
