@@ -137,6 +137,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sheel34/LeetTrack/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sheel34/LeetTrack/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/Sheel34/LeetTrack/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/Sheel34/LeetTrack/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sheel34/LeetTrack/tree/master/0166-fraction-to-recurring-decimal) |
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
@@ -794,6 +795,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Sheel34/LeetTrack/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Sheel34/LeetTrack/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sheel34/LeetTrack/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Sheel34/LeetTrack/tree/master/0368-largest-divisible-subset) |
