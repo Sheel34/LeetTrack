@@ -240,6 +240,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sheel34/LeetTrack/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sheel34/LeetTrack/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Sheel34/LeetTrack/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sheel34/LeetTrack/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0073-set-matrix-zeroes) |
@@ -505,6 +506,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sheel34/LeetTrack/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Sheel34/LeetTrack/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Sheel34/LeetTrack/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Sheel34/LeetTrack/tree/master/0141-linked-list-cycle) |
@@ -534,6 +536,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sheel34/LeetTrack/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Sheel34/LeetTrack/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/Sheel34/LeetTrack/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
