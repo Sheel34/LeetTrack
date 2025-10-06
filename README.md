@@ -261,6 +261,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Sheel34/LeetTrack/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sheel34/LeetTrack/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Sheel34/LeetTrack/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Sheel34/LeetTrack/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Sheel34/LeetTrack/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Sheel34/LeetTrack/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Sheel34/LeetTrack/tree/master/0854-making-a-large-island) |
@@ -456,6 +457,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Sheel34/LeetTrack/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Sheel34/LeetTrack/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/Sheel34/LeetTrack/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Sheel34/LeetTrack/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Sheel34/LeetTrack/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Sheel34/LeetTrack/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sheel34/LeetTrack/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -590,6 +592,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sheel34/LeetTrack/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Sheel34/LeetTrack/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Sheel34/LeetTrack/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Sheel34/LeetTrack/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Sheel34/LeetTrack/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Sheel34/LeetTrack/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Sheel34/LeetTrack/tree/master/0945-snakes-and-ladders) |
@@ -645,6 +648,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Sheel34/LeetTrack/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Sheel34/LeetTrack/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sheel34/LeetTrack/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sheel34/LeetTrack/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sheel34/LeetTrack/tree/master/1917-maximum-average-pass-ratio) |
@@ -688,6 +692,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Sheel34/LeetTrack/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sheel34/LeetTrack/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Sheel34/LeetTrack/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Sheel34/LeetTrack/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Sheel34/LeetTrack/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Sheel34/LeetTrack/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/Sheel34/LeetTrack/tree/master/0975-range-sum-of-bst) |
@@ -719,6 +724,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sheel34/LeetTrack/tree/master/0222-count-complete-tree-nodes) |
 | [0611-valid-triangle-number](https://github.com/Sheel34/LeetTrack/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Sheel34/LeetTrack/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sheel34/LeetTrack/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sheel34/LeetTrack/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sheel34/LeetTrack/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1132,6 +1138,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Sheel34/LeetTrack/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Sheel34/LeetTrack/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Sheel34/LeetTrack/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sheel34/LeetTrack/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Sheel34/LeetTrack/tree/master/1396-count-servers-that-communicate) |
