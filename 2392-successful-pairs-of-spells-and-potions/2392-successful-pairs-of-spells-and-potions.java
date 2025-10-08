@@ -9,7 +9,7 @@ class Solution {
         }
         return ans;
     }
-    int bs(int potions[], long strength, long success) {
+    int bs (int potions [], long strength, long success) {
         int low = 0, high = potions.length - 1, idx = -1;
         while (low <= high) {
             int mid = low + (high - low) / 2;
