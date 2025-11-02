@@ -1,29 +1,36 @@
 class Solution:
-    def countUnguarded(self, m: int, n: int, guards: List[List[int]], walls: List[List[int]]) -> int:
-        
-        # Initialize grid with zeros
-        g = [[0] * n for _ in range(m)] # g - 2D grid/matrix
-        
-        # Mark guards and walls as 2
-        for x, y in guards:  # gx, gy -  guard's position 
-            g[x][y] = 2    
-        for x, y in walls:
-            g[x][y] = 2
-            
-        # Directions: up, right, down, left
-        dirs = [(-1, 0), (0, 1), (1, 0), (0, -1)]
-        
-        # Process each guard's line of sight
-        for gx, gy in guards:
-            for dx, dy in dirs: # dx, dy - movement direction offsets
-                x, y = gx, gy
-                while True:
-                    x += dx
-                    y += dy
-                    # Check cells in current direction until hitting boundary or obstacle
-                    if x < 0 or x >= m or y < 0 or y >= n or g[x][y] == 2:
-                        break
-                    g[x][y] = 1
-        
-        # Count unguarded cells (cells with value 0)
-        return sum(row.count(0) for row in g)
+    def countUnguarded (self, m : int, n : int, guards : List [List [int]], walls : List [List [int]]) -> int:
+        vis = [[0] * n for _ in range (m)]
+        mp = {}
+        for r, c in guards:
+            mp [(r, c)] = 1
+            vis [r] [c] = 1
+        for r, c in walls:
+            mp [(r, c)] = 1
+            vis [r] [c] = 1
+        for r, c in guards:
+            self.dfs (r, c + 1, "r", vis, mp)
+            self.dfs (r, c - 1, "l", vis, mp)
+            self.dfs (r + 1, c, "d", vis, mp)
+            self.dfs (r - 1, c, "u", vis, mp)
+        cnt = 0
+        for i in range (m):
+            for j in range (n):
+                if vis [i] [j] == 0:
+                    cnt += 1
+        return cnt
+    def dfs (self, r, c, dir, vis, mp):
+        n, m = len (vis), len (vis [0])
+        if r < 0 or c < 0 or r >= n or c >= m:
+            return
+        if (r, c) in mp:
+            return
+        vis [r] [c] = 1
+        if dir == "r":
+            self.dfs (r, c + 1, "r", vis, mp)
+        if dir == "l":
+            self.dfs (r, c - 1, "l", vis, mp)
+        if dir == "u":
+            self.dfs (r - 1, c, "u", vis, mp)
+        if dir == "d":
+            self.dfs (r + 1, c, "d", vis, mp)   
