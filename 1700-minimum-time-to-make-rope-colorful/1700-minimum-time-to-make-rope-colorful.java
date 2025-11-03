@@ -3,7 +3,7 @@ class Solution {
         int l = 0, r;
         final int n = colors.length ();
         int removes = 0, locMax = 0;
-        for (r = 0; r < n;){
+        for (r = 0; r < n;) {
             while (r < n && colors.charAt (r) == colors.charAt (l)) {
                 removes += neededTime [r];
                 locMax = Math.max (locMax, neededTime [r]);
