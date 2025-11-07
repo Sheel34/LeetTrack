@@ -2,7 +2,7 @@ class Solution:
     def maxPower (self, stations : List [int], r : int, k : int) -> int:
         n = len (stations)
         df = [0] * (n + 5)
-        for i, j in enumerate(stations):
+        for i, j in enumerate (stations):
             df [max (0, i - r)] += j
             df [min (n - 1, i + r) + 1] -= j
         lo, hi = min (accumulate (df [:n])), 2 * 10 ** 10
