@@ -933,6 +933,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Sheel34/LeetTrack/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Sheel34/LeetTrack/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sheel34/LeetTrack/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Sheel34/LeetTrack/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sheel34/LeetTrack/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sheel34/LeetTrack/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sheel34/LeetTrack/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1083,6 +1084,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sheel34/LeetTrack/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sheel34/LeetTrack/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Sheel34/LeetTrack/tree/master/1448-maximum-69-number) |
+| [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Sheel34/LeetTrack/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sheel34/LeetTrack/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Sheel34/LeetTrack/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sheel34/LeetTrack/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1342,6 +1344,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Sheel34/LeetTrack/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sheel34/LeetTrack/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sheel34/LeetTrack/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Sheel34/LeetTrack/tree/master/2415-count-the-number-of-ideal-arrays) |
