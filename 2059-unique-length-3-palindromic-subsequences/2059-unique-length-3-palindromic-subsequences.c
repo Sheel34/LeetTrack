@@ -1,32 +1,28 @@
-int countPalindromicSubsequence(char* s) {
-
-    int R [26] = {0};
-    int L [26] = {0};
-    int result = 0;
-    int len = strlen (s);
-    
-    for (int i = 0; i < len; i++) {
-        R [s [i] - 'a']++;
+int countPalindromicSubsequence (char* s) {
+    int n = strlen (s);
+    int first [26], last [26];
+    for (int i = 0; i < 26; i++) {
+        first [i] = n;
+        last [i] = -1;
     }
-
-    bool S [26 * 26] = {false};
-
-    for (int i = 0; i < len; i++) {
-        int t = s [i] - 'a';
-        R [t]--;
-        for (int j = 0; j < 26; j++) {
-            if (L [j] > 0 && R [j] > 0) {
-                S [26 * t + j] = true;
+    for (int i = 0; i < n; i++) {
+        int c = s [i] - 'a';
+        if (i < first [c]) first [c] = i;
+        last [c] = i;
+    }
+    int res = 0;
+    for (int c = 0; c < 26; c++) {
+        int L = first [c];
+        int R = last [c];
+        if (R - L < 2) continue;
+        int memo [26] = {0};
+        for (int i = L + 1; i < R; i++) {
+            int idx = s [i] - 'a';
+            if (!memo [idx]) {
+                memo [idx] = 1;
+                res++;
             }
         }
-        L [t]++;
     }
-
-    for (int i = 0; i < 26 * 26; i++) {
-        if (S [i]) {
-            result++;
-        }
-    }
-
-    return result;
+    return res;
 }
