@@ -1,5 +1,5 @@
 class Solution:
-    def prefixesDivBy5(self, nums: List[int]) -> List[bool]:
+    def prefixesDivBy5 (self, nums : List [int]) -> List [bool]:
         ans = [0] * len (nums)
         msb = 0
         for i in range (len (nums)):
