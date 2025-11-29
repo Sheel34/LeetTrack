@@ -481,6 +481,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sheel34/LeetTrack/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Sheel34/LeetTrack/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sheel34/LeetTrack/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sheel34/LeetTrack/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sheel34/LeetTrack/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sheel34/LeetTrack/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sheel34/LeetTrack/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1141,6 +1142,7 @@
 | [3321-type-of-triangle](https://github.com/Sheel34/LeetTrack/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Sheel34/LeetTrack/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Sheel34/LeetTrack/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sheel34/LeetTrack/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sheel34/LeetTrack/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sheel34/LeetTrack/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sheel34/LeetTrack/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
