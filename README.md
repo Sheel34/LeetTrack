@@ -165,6 +165,7 @@
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Sheel34/LeetTrack/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/Sheel34/LeetTrack/tree/master/0868-push-dominoes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sheel34/LeetTrack/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Sheel34/LeetTrack/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Sheel34/LeetTrack/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sheel34/LeetTrack/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -317,6 +318,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sheel34/LeetTrack/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sheel34/LeetTrack/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Sheel34/LeetTrack/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sheel34/LeetTrack/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Sheel34/LeetTrack/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Sheel34/LeetTrack/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Sheel34/LeetTrack/tree/master/1006-vowel-spellchecker) |
