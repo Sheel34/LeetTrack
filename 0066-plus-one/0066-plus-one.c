@@ -3,9 +3,9 @@
  */
 int* plusOne (int* digits, int digitsSize, int* returnSize) {
     int* res = (int*) calloc ((digitsSize + 1), sizeof (int));
-    for(int i = 0; i < digitsSize; i++) res [i] = digits [i];
-    for(int i = digitsSize - 1; i >= 0; i--) {
-        if(res [i] != 9) {
+    for (int i = 0; i < digitsSize; i++) res [i] = digits [i];
+    for (int i = digitsSize - 1; i >= 0; i--) {
+        if (res [i] != 9) {
             res [i] += 1;
             *returnSize = digitsSize;
             return res;
