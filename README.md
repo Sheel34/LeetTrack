@@ -390,6 +390,7 @@
 | [1929-concatenation-of-array](https://github.com/Sheel34/LeetTrack/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sheel34/LeetTrack/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Sheel34/LeetTrack/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/Sheel34/LeetTrack/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sheel34/LeetTrack/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sheel34/LeetTrack/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Sheel34/LeetTrack/tree/master/2023-design-movie-rental-system) |
@@ -593,6 +594,7 @@
 | [1876-map-of-highest-peak](https://github.com/Sheel34/LeetTrack/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sheel34/LeetTrack/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Sheel34/LeetTrack/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/Sheel34/LeetTrack/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/Sheel34/LeetTrack/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Sheel34/LeetTrack/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sheel34/LeetTrack/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -704,6 +706,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sheel34/LeetTrack/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sheel34/LeetTrack/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sheel34/LeetTrack/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/Sheel34/LeetTrack/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/Sheel34/LeetTrack/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Sheel34/LeetTrack/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sheel34/LeetTrack/tree/master/2141-maximum-running-time-of-n-computers) |
