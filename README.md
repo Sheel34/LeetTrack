@@ -308,6 +308,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Sheel34/LeetTrack/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sheel34/LeetTrack/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Sheel34/LeetTrack/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Sheel34/LeetTrack/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Sheel34/LeetTrack/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sheel34/LeetTrack/tree/master/0594-longest-harmonious-subsequence) |
