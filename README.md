@@ -358,6 +358,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sheel34/LeetTrack/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sheel34/LeetTrack/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sheel34/LeetTrack/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Sheel34/LeetTrack/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sheel34/LeetTrack/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/Sheel34/LeetTrack/tree/master/1470-shuffle-the-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sheel34/LeetTrack/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1040,6 +1041,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sheel34/LeetTrack/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sheel34/LeetTrack/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sheel34/LeetTrack/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Sheel34/LeetTrack/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Sheel34/LeetTrack/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sheel34/LeetTrack/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sheel34/LeetTrack/tree/master/1628-count-submatrices-with-all-ones) |
