@@ -167,6 +167,7 @@
 | [0165-compare-version-numbers](https://github.com/Sheel34/LeetTrack/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sheel34/LeetTrack/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sheel34/LeetTrack/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Sheel34/LeetTrack/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Sheel34/LeetTrack/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Sheel34/LeetTrack/tree/master/0782-jewels-and-stones) |
@@ -1029,6 +1030,7 @@
 | [0474-ones-and-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sheel34/LeetTrack/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Sheel34/LeetTrack/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sheel34/LeetTrack/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sheel34/LeetTrack/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Sheel34/LeetTrack/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Sheel34/LeetTrack/tree/master/0867-new-21-game) |
