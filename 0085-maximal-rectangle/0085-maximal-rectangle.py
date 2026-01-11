@@ -17,7 +17,6 @@ class Solution:
         stack = []
         maxArea = 0
         n = len (heights)
-
         for i in range (n + 1):
             h = 0 if i == n else heights [i]
             while stack and h < heights [stack [-1]]:
