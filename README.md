@@ -301,6 +301,7 @@
 | [0066-plus-one](https://github.com/Sheel34/LeetTrack/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sheel34/LeetTrack/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Sheel34/LeetTrack/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Sheel34/LeetTrack/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sheel34/LeetTrack/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Sheel34/LeetTrack/tree/master/0135-candy) |
@@ -580,6 +581,7 @@
 | [0036-valid-sudoku](https://github.com/Sheel34/LeetTrack/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sheel34/LeetTrack/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sheel34/LeetTrack/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Sheel34/LeetTrack/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Sheel34/LeetTrack/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Sheel34/LeetTrack/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sheel34/LeetTrack/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1023,6 +1025,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Sheel34/LeetTrack/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Sheel34/LeetTrack/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Sheel34/LeetTrack/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sheel34/LeetTrack/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Sheel34/LeetTrack/tree/master/0368-largest-divisible-subset) |
@@ -1286,6 +1289,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sheel34/LeetTrack/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Sheel34/LeetTrack/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Sheel34/LeetTrack/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sheel34/LeetTrack/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sheel34/LeetTrack/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1307,6 +1311,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Sheel34/LeetTrack/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sheel34/LeetTrack/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sheel34/LeetTrack/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sheel34/LeetTrack/tree/master/1628-count-submatrices-with-all-ones) |
