@@ -895,6 +895,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Sheel34/LeetTrack/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Sheel34/LeetTrack/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Sheel34/LeetTrack/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sheel34/LeetTrack/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1361,6 +1362,7 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Sheel34/LeetTrack/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Sheel34/LeetTrack/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sheel34/LeetTrack/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sheel34/LeetTrack/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1385,6 +1387,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Sheel34/LeetTrack/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Sheel34/LeetTrack/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sheel34/LeetTrack/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sheel34/LeetTrack/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
