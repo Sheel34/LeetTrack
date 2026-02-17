@@ -1418,6 +1418,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sheel34/LeetTrack/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/Sheel34/LeetTrack/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Sheel34/LeetTrack/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Sheel34/LeetTrack/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Sheel34/LeetTrack/tree/master/0756-pyramid-transition-matrix) |
@@ -1437,6 +1438,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Sheel34/LeetTrack/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Sheel34/LeetTrack/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Sheel34/LeetTrack/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Sheel34/LeetTrack/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Sheel34/LeetTrack/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sheel34/LeetTrack/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sheel34/LeetTrack/tree/master/1018-binary-prefix-divisible-by-5) |
