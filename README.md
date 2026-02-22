@@ -1440,6 +1440,7 @@
 | [0342-power-of-four](https://github.com/Sheel34/LeetTrack/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Sheel34/LeetTrack/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Sheel34/LeetTrack/tree/master/0756-pyramid-transition-matrix) |
+| [0868-binary-gap](https://github.com/Sheel34/LeetTrack/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sheel34/LeetTrack/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sheel34/LeetTrack/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Sheel34/LeetTrack/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
