@@ -1,0 +1,19 @@
+# Model weights (large binary files)
+models/*.pth
+models/*.pt
+models/*.bin
+models/*.onnx
+
+# Generated outputs
+output/*
+!output/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Blender autosaves
+*.blend1

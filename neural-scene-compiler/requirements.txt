@@ -1,0 +1,37 @@
+# Neural Scene Compiler — Python dependencies
+# Install with: pip install -r requirements.txt
+#
+# Tested on Python 3.10+, CUDA 11.8/12.1 (torch nightly or stable)
+
+# ── Core numerical / image processing ────────────────────────────────────────
+numpy>=1.24.0
+opencv-python>=4.8.0
+Pillow>=9.5.0
+
+# ── Deep learning framework ───────────────────────────────────────────────────
+# Install the CUDA build matching your driver, e.g.:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+torch>=2.0.0
+torchvision>=0.15.0
+
+# ── Segment Anything Model (SAM) ──────────────────────────────────────────────
+# GitHub: https://github.com/facebookresearch/segment-anything
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git
+
+# ── CLIP (via OpenCLIP) ───────────────────────────────────────────────────────
+open-clip-torch>=2.20.0
+
+# ── MiDaS depth estimation ────────────────────────────────────────────────────
+# MiDaS is loaded via torch.hub (no extra pip package required).
+# The following packages are needed by MiDaS internals:
+timm>=0.9.0
+einops>=0.6.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+tqdm>=4.65.0
+
+# ── Optional: Blender Python API ─────────────────────────────────────────────
+# bpy is only needed when running Blender headlessly as a Python module.
+# If you launch Blender normally and run the generated script inside it,
+# you do NOT need to install bpy separately.
+# bpy>=3.6.0   # uncomment only if using headless Blender Python module
